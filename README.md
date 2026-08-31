@@ -9,8 +9,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0495-teemo-attacking) |
+| [0888-fair-candy-swap](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0888-fair-candy-swap) |
 ## Simulation
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0495-teemo-attacking) |
+## Hash Table
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0888-fair-candy-swap) |
+## Binary Search
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0888-fair-candy-swap) |
+## Sorting
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0888-fair-candy-swap) |
 <!---LeetCode Topics End-->
