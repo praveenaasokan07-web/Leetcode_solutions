@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0908-smallest-range-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0908-smallest-range-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0908-smallest-range-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
