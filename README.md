@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0917-reverse-only-letters) |
 ## Two Pointers
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
