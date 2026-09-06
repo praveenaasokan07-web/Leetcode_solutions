@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0495-teemo-attacking](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0804-unique-morse-code-words](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0804-unique-morse-code-words) |
+| [0883-projection-area-of-3d-shapes](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0908-smallest-range-i) |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0883-projection-area-of-3d-shapes](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0908-smallest-range-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
