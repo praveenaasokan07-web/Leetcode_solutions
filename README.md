@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0495-teemo-attacking](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0804-unique-morse-code-words](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0804-unique-morse-code-words) |
+| [0812-largest-triangle-area](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0812-largest-triangle-area](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0908-smallest-range-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 ## Stack
 |  |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
