@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0804-unique-morse-code-words](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0812-largest-triangle-area) |
+| [0819-most-common-word](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0819-most-common-word) |
 | [0883-projection-area-of-3d-shapes](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0888-fair-candy-swap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0812-largest-triangle-area) |
+## Counting
+|  |
+| ------- |
+| [0819-most-common-word](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
