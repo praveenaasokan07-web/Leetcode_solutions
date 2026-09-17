@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0908-smallest-range-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -35,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0888-fair-candy-swap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0888-fair-candy-swap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Geometry
 |  |
 | ------- |
@@ -140,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
