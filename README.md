@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0908-smallest-range-i) |
+| [0976-largest-perimeter-triangle](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0888-fair-candy-swap](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0908-smallest-range-i) |
+| [0976-largest-perimeter-triangle](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [3870-count-commas-in-range](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0812-largest-triangle-area) |
+| [0976-largest-perimeter-triangle](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -148,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
