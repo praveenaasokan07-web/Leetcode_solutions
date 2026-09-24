@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0925-long-pressed-name) |
 ## Prefix Sum
 |  |
 | ------- |
