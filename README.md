@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
 |  |
 | ------- |
