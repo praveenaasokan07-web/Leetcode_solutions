@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1254-number-of-closed-islands](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -77,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1096-brace-expansion-ii](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
+| [1254-number-of-closed-islands](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1254-number-of-closed-islands](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
