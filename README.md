@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3875-construct-uniform-parity-array-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/praveenaasokan07-web/Leetcode_solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Geometry
 |  |
 | ------- |
